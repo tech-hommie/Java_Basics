@@ -1,0 +1,17 @@
+class File contains below information:
+	magic_number;
+	minor_version;
+	major_version;
+	constant_pool_count;
+	constant_pool[];
+	access_flags;
+	this_class;
+	super_class;
+	interfaces_count;
+	interfaces[];
+	fields_count;
+	fields[];
+	method_count[];
+	methods[];
+	attribute_count;
+	attributes[];

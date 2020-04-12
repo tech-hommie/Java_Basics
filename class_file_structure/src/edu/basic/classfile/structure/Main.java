@@ -13,18 +13,17 @@ public class Main {
 	}
 }
 
-//demo1 dummy class
-class Demo1{
-	
+// demo1 dummy class
+class Demo1 {
+
 }
-//demo2 dummy class
-class Demo2{
-	
+
+// demo2 dummy class
+class Demo2 {
+
 }
 
 /*
- * Output:
- * class file compiling
+ * Output: class file compiling
  * 
  */
-  
